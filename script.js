@@ -1,3 +1,3 @@
 function afficherMessage() {
-    alert("Bonjour et bienvenue sur mon site !");
+    alert("Bonjour et bienvenu mon site !");
 }
